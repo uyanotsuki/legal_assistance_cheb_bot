@@ -4,7 +4,7 @@
 ## 📦 Установка
 1. Клонируйте репозиторий:
    ```bash
-    git clone https://github.com/uyanotsuki/?
+    git@github.com:uyanotsuki/legal_assistance_cheb_bot.git
 2. Создайте виртуальное окружение:
     ```bash
    python -m venv .venv
